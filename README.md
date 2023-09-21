@@ -4,4 +4,7 @@ The primary objective of this project is to utilize Tensorflow in training an ar
 
 KITTI Road segmentation (main task of the project):
 
-![title.gif animation](image/ezgif.com-gif-maker (2).gif)
+
+<div align="center">
+    <img src="https://github.com/ELSOUDY2030/Semantic-Segmentation/blob/main/image/ezgif.com-gif-maker%20(2).gif" width="500" height="500">
+</div>
