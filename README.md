@@ -35,7 +35,7 @@ Make sure you have the following is installed:
 ##### Run
 Run the following command to run the project:
 ```
-python main.py
+Semantic Segmentation for Self Driving Cars.ipynb
 ```
 
 ### Training results and weights  
