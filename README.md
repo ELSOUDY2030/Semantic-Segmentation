@@ -13,9 +13,7 @@ The dataset comprises five sets, each containing 1000 images along with their co
 
 The link Data:
 ```  
-...
  https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge 
-...
 ```
 
 <div align="center">
