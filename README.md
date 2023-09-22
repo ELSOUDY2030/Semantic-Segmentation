@@ -12,16 +12,9 @@ This dataset includes images and associated labeled semantic segmentations obtai
 The dataset comprises five sets, each containing 1000 images along with their corresponding labels.
 
 The link Data:
-    '''
-    https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge
-    '''
-
 ```  
 ...
- The main difference is that there is multiple prediction layers: one for each upsampling layer. 
- Like the U-Net, the FPN has laterals connection between the bottom-up pyramid (left) and the top-down pyramid (right).
- But, where U-net only copy the features and append them, FPN apply a 1x1 convolution layer before adding them. 
- This allows the bottom-up pyramid called “backbone” to be pretty much whatever you want.  
+ https://www.kaggle.com/datasets/kumaresanmanickavelu/lyft-udacity-challenge 
 ...
 ```
 
